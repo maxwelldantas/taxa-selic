@@ -7,7 +7,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.maxwelldantas</groupId>
 	<artifactId>taxa-selic</artifactId>
-	<version>1.0.1</version>
+	<version>1.0.2</version>
 
 	<properties>
 		<compiler-plugin.version>3.11.0</compiler-plugin.version>
